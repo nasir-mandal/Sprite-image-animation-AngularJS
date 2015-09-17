@@ -1,0 +1,9 @@
+.slider {
+	width: 100%;
+	margin: 0 auto;
+}
+.slider .thumbnail {
+	display: block;
+	width: 100px;
+	height: 155px;
+}
